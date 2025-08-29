@@ -1,7 +1,7 @@
 # PRvL: Quantifying the Capabilities and Risks of Large Language Models for PII Redaction
 
 ## About
-PRvL is an open-source framework for **PII redaction with Large Language Models (LLMs)**. It provides fine-tuned models and evaluation tools to help practitioners redact sensitive information from unstructured text while preserving context and meaning. Unlike rule-based or NER approaches that fail to generalize across formats, PRvL leverages the contextual understanding of LLMs to deliver accurate, efficient, and privacy-aware redaction.
+PRvL is an open-source framework for **PII redaction with Large Language Models (LLMs)**. It provides fine-tuned models and evaluation tools to help practitioners redact sensitive information from unstructured text while preserving context and meaning. 
 
 Designed for **secure, self-managed environments**, PRvL enables data owners to perform redaction without exposing sensitive content to third-party services. The framework also supports multiple inference settings, making it adaptable for research, deployment, and compliance needs.
 <p align="center">
