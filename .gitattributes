@@ -1,7 +1,5 @@
-llama3-8b-pii-lora filter=lfs diff=lfs merge=lfs -text
-model_checkpoints/llama3-8b-pii-lora filter=lfs diff=lfs merge=lfs -text
-*.safetensors filter=lfs diff=lfs merge=lfs -text
 model_checkpoints/** filter=lfs diff=lfs merge=lfs -text
+*.safetensors filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.ckpt filter=lfs diff=lfs merge=lfs -text
